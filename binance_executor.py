@@ -1,0 +1,1 @@
+# binance_executor.py - sadržaj privremen
